@@ -1,5 +1,5 @@
 <aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId">
-
+<!--Broker Detail component-->
     <aura:attribute name="brokerFields" type="List" default="['Name', 'Phone__c', 'Mobile_Phone__c', 'Email__c']" />
     <aura:attribute name="property" type="Object"/>
 
